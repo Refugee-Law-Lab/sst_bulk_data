@@ -6,7 +6,7 @@ License: Creative Commons Attribution-NonCommercial 4.0 International [(CC BY-NC
 
 Dataset & Code to be cited as: 
 
-    Sean Rehaag, "Social Security Tribunal Bulk Decisions Dataset" (2023), online: Refugee Law Laboratory <https://refugeelab.ca/bulk-data/sst>.
+    Sean Rehaag, "Social Security Tribunal Bulk Decisions Dataset" (2023), online: Refugee Law Laboratory <https://refugeelab.ca/bulk-data/sst> (updated 2024).
 
 To load data, see [load_and_analyze_sst_cases.ipynb](https://github.com/Refugee-Law-Lab/sst_bulk_data/blob/master/load_and_analyze_sst_cases.ipynb)
 
